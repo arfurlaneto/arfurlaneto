@@ -21,8 +21,5 @@ Next steps are to include Go Language and some functional programming language i
 
 Also learning some game programming with Unity, for a hobby. 😁
 
-### Links
----
-
-- <a href="https://www.linkedin.com/in/arfurlaneto">LinkedIn</a>
-- <a href="https://www.codewars.com/users/Furlaneto">Codewars</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfurlaneto/)](https://www.linkedin.com/in/arfurlaneto/)
+[![Codewars Badge](https://img.shields.io/badge/-Codewars-bb432c?style=flat-square&logo=Codewars&logoColor=white&&link=https://www.codewars.com/users/Furlaneto)](https://www.codewars.com/users/Furlaneto)
