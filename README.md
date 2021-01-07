@@ -17,7 +17,7 @@ I am a Full Stack Software Engineer located at Sorocaba, SP - Brazil.
 I have a degree in Computer Science and have been working with programming since 2010.
 
 I have some experience with C#, NET Framework and Vue.js, but now my focus is Node.js, React and React Native.
-Next steps are to include Go Language and some functional programming language in my tool set.
+Next steps are to include Rust and some functional programming language in my tool set.
 
 Also learning some game programming with Unity, for a hobby. 😁
 
