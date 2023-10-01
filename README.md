@@ -13,10 +13,10 @@
 ---
 
 Hi, I'm Tony.
-I am a Full Stack Software Engineer located at Sorocaba, SP - Brazil.
+I am a Software Engineer located at Sorocaba, SP - Brazil.
 I have a degree in Computer Science and have been working with programming since 2010.
 
-I have some experience with C#, NET Framework and Vue.js, but now my focus is Node.js, React and React Native.
+I have some experience with Java, C#, NET Framework, Javascript, Node.js, PHP, Golang and React.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arfurlaneto/)](https://www.linkedin.com/in/arfurlaneto/)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-bb432c?style=flat-square&logo=Codewars&logoColor=white&&link=https://www.codewars.com/users/Furlaneto)](https://www.codewars.com/users/Furlaneto)
